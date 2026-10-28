@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/piyushkumar4545/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/piyushkumar4545/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/piyushkumar4545/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyushkumar4545/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/0022-generate-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/piyushkumar4545/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyushkumar4545/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyushkumar4545/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyushkumar4545/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/piyushkumar4545/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyushkumar4545/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/piyushkumar4545/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/piyushkumar4545/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyushkumar4545/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
