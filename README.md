@@ -134,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/piyushkumar4545/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/piyushkumar4545/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/piyushkumar4545/LeetCode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
