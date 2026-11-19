@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/piyushkumar4545/LeetCode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/piyushkumar4545/LeetCode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/piyushkumar4545/LeetCode/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/piyushkumar4545/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/piyushkumar4545/LeetCode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushkumar4545/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
