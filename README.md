@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/piyushkumar4545/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyushkumar4545/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/piyushkumar4545/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Euclidean Algorithm
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/piyushkumar4545/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/piyushkumar4545/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/piyushkumar4545/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/piyushkumar4545/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/piyushkumar4545/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/piyushkumar4545/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/piyushkumar4545/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/piyushkumar4545/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/piyushkumar4545/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/piyushkumar4545/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/piyushkumar4545/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/piyushkumar4545/LeetCode/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/piyushkumar4545/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/piyushkumar4545/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyushkumar4545/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
