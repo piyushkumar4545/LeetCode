@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/piyushkumar4545/LeetCode/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/piyushkumar4545/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/piyushkumar4545/LeetCode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/piyushkumar4545/LeetCode/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/piyushkumar4545/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/piyushkumar4545/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/piyushkumar4545/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Greedy
 |  |
 | ------- |
