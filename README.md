@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/piyushkumar4545/LeetCode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/piyushkumar4545/LeetCode/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/piyushkumar4545/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/piyushkumar4545/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/piyushkumar4545/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushkumar4545/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushkumar4545/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/0022-generate-parentheses) |
+| [0746-min-cost-climbing-stairs](https://github.com/piyushkumar4545/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushkumar4545/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/piyushkumar4545/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyushkumar4545/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
