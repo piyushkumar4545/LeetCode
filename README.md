@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/piyushkumar4545/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/piyushkumar4545/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/piyushkumar4545/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/piyushkumar4545/LeetCode/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/piyushkumar4545/LeetCode/tree/master/0399-evaluate-division) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/piyushkumar4545/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/piyushkumar4545/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushkumar4545/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/piyushkumar4545/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
