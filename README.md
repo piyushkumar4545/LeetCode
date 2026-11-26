@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/piyushkumar4545/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushkumar4545/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [3360-stone-removal-game](https://github.com/piyushkumar4545/LeetCode/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/piyushkumar4545/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/piyushkumar4545/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3360-stone-removal-game](https://github.com/piyushkumar4545/LeetCode/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
