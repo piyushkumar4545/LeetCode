@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/piyushkumar4545/LeetCode/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/piyushkumar4545/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushkumar4545/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3360-stone-removal-game](https://github.com/piyushkumar4545/LeetCode/tree/master/3360-stone-removal-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/piyushkumar4545/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/piyushkumar4545/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/piyushkumar4545/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/piyushkumar4545/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/piyushkumar4545/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/piyushkumar4545/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
