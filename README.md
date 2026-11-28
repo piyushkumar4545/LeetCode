@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/piyushkumar4545/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0399-evaluate-division](https://github.com/piyushkumar4545/LeetCode/tree/master/0399-evaluate-division) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/piyushkumar4545/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/piyushkumar4545/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyushkumar4545/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/piyushkumar4545/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyushkumar4545/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/piyushkumar4545/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/piyushkumar4545/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/piyushkumar4545/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/piyushkumar4545/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/piyushkumar4545/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyushkumar4545/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/piyushkumar4545/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/piyushkumar4545/LeetCode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/piyushkumar4545/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
